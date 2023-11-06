@@ -34,27 +34,52 @@
     2. **USER SPACE**
          - User space usually refers to the various programs and libraries that the operating system uses to interact with the kernel.
     3. **GRAPHINE OS**
-    4. **BHAR OS**           
+          - GrapheneOS is an Android-based, open source, privacy and security-focused mobile operating system for selected Google Pixel smartphones
+    5. **BHAR OS**           
 
    # **NETWORKING**
    + **OPEN SYSTEMS INTERCONNECTION (OSI) LAYER**
          - PHYSICAL, DATA LINK, NETWORK, TRANSPORT, SESSION, PRESENTATION, AND APPLICATION
                 
-       + **SWITCH**
+   + **SWITCH**
 
-         - IT IS A HARDWARE THAT CONNECTS DEVICES ON A COMPUTER NETWORK BY USING PACKET SWITCHINNG TO RECIEVE AND FORWARD  DATA TO DESTINATION DEVICE.
-       + **ROUTER**
-       + **CNI**
-             1. CELIUM, CALICO
-       + **VIRTUALIZATION**
-              1. OPEN VIRTUAL SWITCH(OVS)
-              2. VECTOR PACKET PROCESSING(VPP)
-         + **LOAD BALANCER**
-            1. APPLICATION LOAD BALANCER
-            2. NETWORK LOAD BALANCER
-            3. CLASSIC LOAD BALANCER ( THIS IS RARELY USED)
-         + **PROXY**
-             - IT IS A GATEWAY BETWEEN USERS AND THE INTERNET IT IMPROVES SECURITY, PRIVACY AND PERFOMANCE.       
+     - IT IS A HARDWARE THAT CONNECTS DEVICES ON A COMPUTER NETWORK BY USING PACKET SWITCHINNG TO RECIEVE AND FORWARD  DATA TO DESTINATION DEVICE.
+   
+    
++ **ROUTER**
+    
++ **CNI**
+
+    1. **CELIUM**
+    2. **CALICO**
+
+  + **VIRTUALIZATION**
+
+     1. OPEN VIRTUAL SWITCH(OVS)
+     2. VECTOR PACKET PROCESSING(VPP)
+   
+   + **LOAD BALANCER**
+
+        1. APPLICATION LOAD BALANCER
+        2. NETWORK LOAD BALANCER
+        3. CLASSIC LOAD BALANCER ( THIS IS RARELY USED)
+   
+    + **PROXY**
+             - IT IS A GATEWAY BETWEEN USERS AND THE INTERNET IT IMPROVES SECURITY, PRIVACY AND PERFOMANCE.
+
+        1. ***REVERSE PROCY SRERVER***
+        2. ***WEB PROXY SERVER***
+        3. ***ANONYMOUS PROXY SERVER***
+        4. ***HIGHLY ANONYMITY SERVER***
+        5. ***TRANSPARENT PROXY***
+        6. ***CGI PROXY***
+        7. ***SUFFIX PROXY***
+        8. ***DISORTING PROXY***
+        9. ***TOR ONION PROXY***
+        10. ***12P ANONYMOUS PROXY***
+        11. ***DNS PROXY***
+
+     + 
 
 
 
