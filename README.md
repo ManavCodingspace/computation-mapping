@@ -9,9 +9,8 @@
  + **CONTAINER**
     -DOCKER, LXC, KAAS, IAAS
     - ORCHE STORAGE- KUBERNETS, DOCKER SWARM, MEESOS, EKSCOS
-    - HUGE PAGES, NUMA
-
-  + **COMPUTATION UNITS**
+      
+ + **COMPUTATION UNITS**
      - CPU(ALU), DPU, GPU, SOC, FPGA, ASICS, FAB
      - GRAPHINE OS, BHAR OS
        
@@ -25,10 +24,20 @@
              - PHOTONS, PRNG, QRNG,QC
        7. **FAB**
             - AMD, INTEL, SAMSUNG
-                
-    # **NETWORKING**
-       + **OPEN SYSTEMS INTERCONNECTION (OSI) LAYER**
+ 
+  + **COMPUTER OPERATING SYSTEM**
+        
+    1. **KERNEL SPACE**
+        - It acts as a bridge between applications and data processing done at the hardware level. It is the central component of an OS.
+        - HUGE PAGES,FMS,SCHEDULE, ETC            
+         
+    2. **USER SPACE**
+         - User space usually refers to the various programs and libraries that the operating system uses to interact with the kernel.
+    3. **GRAPHINE OS**
+    4. **BHAR OS**           
 
+   # **NETWORKING**
+   + **OPEN SYSTEMS INTERCONNECTION (OSI) LAYER**
          - PHYSICAL, DATA LINK, NETWORK, TRANSPORT, SESSION, PRESENTATION, AND APPLICATION
                 
        + **SWITCH**
