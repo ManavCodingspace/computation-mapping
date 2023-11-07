@@ -104,7 +104,29 @@
        + ***PRIVATE NETWORK***
 
        + ***STATIC IPs***
-             - 
+            - which means it stays same over the time
+
+       + ***DYNAMIC IPS***
+            - WHICH MEANS ADDRESS CAN CHANGE OVER THE TIME.
+
+       +  ***FIREWAll***
+              - IT IS A NETWORK SECURITY SYSTEM THAT MONITORS AND CONTROLS INCOMING AND OUTGOING NETWORK TRAFFIC BASED  ON PREDETERMINED SECURITYV RULES.
+       +  ***PUBLIC DNS***
+       +  ***PRIVATE DNS***
+       +  ***VPN***
+          - IT CREATES A SECURE  CONNECTION BETWEEN A COMPUTING DEVICES AND COMPUTER NETWORKS
+  
+       +  ***IPv4***
+       +  ***IPv6***              
+       + ***NAT***
+
+  # **STORAGE**
+  + **CEPH**
+     - IT PROVIDES OBJECT STORAGE, BLOCK STORAGE AND FILE STORAGE
+  + **RAID**
+  + **NFS**
+     - IT PROVIDES USERS TO ACCESS THE FILES IN THE REMOTE 
+              
                   
 
 
