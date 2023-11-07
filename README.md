@@ -81,8 +81,22 @@
 
      + **NETWORK TOPOLOGIES**
          - IT IS USED TO DESCRIBE THE ARRANGEMENTS OF VARIOUS TYPES OF TELECOMMUNICATION NETWORKS INCLUDING COMMAND AND CONTROL RADIO NETWORKS.
-              ![download](https://github.com/ManavCodingspace/computation-mapping/assets/145857624/7d743089-29d4-4cfe-a289-6ef16bef281d)
 
+           ![download](https://github.com/ManavCodingspace/computation-mapping/assets/145857624/7d743089-29d4-4cfe-a289-6ef16bef281d)
+      + ***CIDR NOTATIONS**
+           - IT is a method for allocating IP addresses and for IP routing
+        1. **CLASSES OF CIDR NOTION**
+               - **CLASS A** - A Class A IPv4 address has 8 network prefix bits.
+               - **CLASS B** -  Class B IPv4 address has 16 network prefix bits
+               - **CLASS C** - Class C IPv4 address has 24 network prefix bits.
+      + ***SUBNETTING***
+           - IT IS A PRACTICE OF DIVIDING A NETWORK INTO TWO OR MORE NETWORKS.
+      + ***PUBLIC NETWORK***
+           - IT IMPLIES THAT EVERYONE HAS THE ACCESS AND THROUGH IT CAN CONNECT TO OTHER NETWORKS OR THE INTERNET
+      + ***PRIVATE NETWORK***
+      + ***STATIC IPs***
+             - 
+                  
 
 
 
