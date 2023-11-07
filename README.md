@@ -79,7 +79,10 @@
         10. ***12P ANONYMOUS PROXY***
         11. ***DNS PROXY***
 
-     + 
+     + **NETWORK TOPOLOGIES**
+         - IT IS USED TO DESCRIBE THE ARRANGEMENTS OF VARIOUS TYPES OF TELECOMMUNICATION NETWORKS INCLUDING COMMAND AND CONTROL RADIO NETWORKS.
+              ![download](https://github.com/ManavCodingspace/computation-mapping/assets/145857624/7d743089-29d4-4cfe-a289-6ef16bef281d)
+
 
 
 
