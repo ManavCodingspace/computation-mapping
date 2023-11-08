@@ -134,10 +134,14 @@
   + ***RACKS***
       - FRAMEWORK FOR HOLDING, CARRYING, OR DISPLAYING A SPECIFIC LOAD OR OBJECT.
   + ***DATA CENTERS***
-         1.***HYPERSCALING***
-         2. ***HCL***
-         3. ***PRIVATE***
-         4. ***PUBLIC CLOUD***
+
+     1.***HYPERSCALING***
+
+     2. ***HCL***
+
+    3. ***PRIVATE***
+
+    4. ***PUBLIC CLOUD***
     + ***DISC IOPS***
            - IT IS INPUT/OUTPUT PERFORMACE MEASUREMENT USE TO CHARACTERIZE COMPUTER STORAGE DEVICES.
  
