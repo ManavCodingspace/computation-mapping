@@ -135,9 +135,9 @@
       - FRAMEWORK FOR HOLDING, CARRYING, OR DISPLAYING A SPECIFIC LOAD OR OBJECT.
   + ***DATA CENTERS***
 
-     1.***HYPERSCALING***
+      a.***HYPERSCALING***
 
-     2. ***HCL***
+    2. ***HCL***
 
     3. ***PRIVATE***
 
