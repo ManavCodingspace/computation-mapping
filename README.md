@@ -193,9 +193,13 @@
     ![download](https://github.com/ManavCodingspace/computation-mapping/assets/145857624/559adfab-7b41-48dc-9c3d-8d7d81a55615)
 
  1. **L4 LOADBALANCER**
-        - MANAGES TRAFFIC BASED ON NETWORK INFORMATION SUCH AS PROTOCOLS AND APPLICATIONS PORTS WITHOUT REQURING VISIBILITY INTO ACTUAL CONTENT OF MSG.
-        - EFFECTIVE FOR SIMPLE LOADBALANCING AT THE PACKET LEVEL. Messages can be forwarded efficiently, quickly, and securely because they are neither decrypted nor inspected.
+
+    - MANAGES TRAFFIC BASED ON NETWORK INFORMATION SUCH AS PROTOCOLS AND APPLICATIONS PORTS WITHOUT REQURING VISIBILITY INTO ACTUAL CONTENT OF MSG.
+
+    - EFFECTIVE FOR SIMPLE LOADBALANCING AT THE PACKET LEVEL. Messages can be forwarded efficiently, quickly, and securely because they are neither decrypted nor inspected.
+
         - + **UDP PROTOCOLS**
+
         - + **TCP PROTOCOLS**  
  3. **L7 LOADBALANCER**
      
