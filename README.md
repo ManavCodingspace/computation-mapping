@@ -63,7 +63,20 @@
         1. APPLICATION LOAD BALANCER
         2. NETWORK LOAD BALANCER
         3. CLASSIC LOAD BALANCER ( THIS IS RARELY USED)
-   
+    + **UDP PROTOCOLS**
+        - IT IS A TRANSPORT LAYER PROTOCOL
+        - IT IS UNREALIABLE AND CONNECTIONLESS PROTOCOL, SO THERE IS NO NEED TO ESTABLISH A CONNECTION PRIOR TO DATA TRANSFER
+        - IT HELPS TO ESTABLISH LOW LATENCY AND LOSS- TOLERATING CONNECTIONS PRIOR TO DATA TRANSFER.
+        - ![UDP-header](https://github.com/ManavCodingspace/computation-mapping/assets/145857624/954d1dfa-3429-4eb2-944a-38c42b98e334)
+        - IMPLICATIONS USES BY UDP- + NTP (Network Time Protocol)
+                                    + DNS (Domain Name Service)
+                                    + BOOTP, DHCP.
+                                    + NNP (Network News Protocol)
+                                    + Quote of the day protocol
+                                    + TFTP, RTSP, RIP.
+                                   
+
+    + **TCP PROTOCOLS**
     + **PROXY**
              - IT IS A GATEWAY BETWEEN USERS AND THE INTERNET IT IMPROVES SECURITY, PRIVACY AND PERFOMANCE.
 
@@ -171,8 +184,15 @@
      
 # **LOAD BALANCER**
    - IT IS A METHOD OF DISTRIBUTING NETWORK TRAFFIC EQUALLY ACROSS POOL OF RESOURCES THTA SUPPORTS AN APPLICATION    
+    ![download](https://github.com/ManavCodingspace/computation-mapping/assets/145857624/559adfab-7b41-48dc-9c3d-8d7d81a55615)
 
- 1. **L4 LOAD 
+ 1. **L4 LOADBALANCER**
+        - MANAGES TRAFFIC BASED ON NETWORK INFORMATION SUCH AS PROTOCOLS AND APPLICATIONS PORTS WITHOUT REQURING VISIBILITY INTO ACTUAL CONTENT OF MSG.
+        - EFFECTIVE FOR SIMPLE LOADBALANCING AT THE PACKET LEVEL. Messages can be forwarded efficiently, quickly, and securely because they are neither decrypted nor inspected.
+        - + **UDP PROTOCOLS**
+        - + **TCP PROTOCOLS**  
+ 3. **L7 LOADBALANCER**
+     
                
 
    
