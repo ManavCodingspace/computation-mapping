@@ -68,12 +68,18 @@
         - IT IS UNREALIABLE AND CONNECTIONLESS PROTOCOL, SO THERE IS NO NEED TO ESTABLISH A CONNECTION PRIOR TO DATA TRANSFER
         - IT HELPS TO ESTABLISH LOW LATENCY AND LOSS- TOLERATING CONNECTIONS PRIOR TO DATA TRANSFER.
         - ![UDP-header](https://github.com/ManavCodingspace/computation-mapping/assets/145857624/954d1dfa-3429-4eb2-944a-38c42b98e334)
-        - IMPLICATIONS USES BY UDP- + NTP (Network Time Protocol)
-                                    + DNS (Domain Name Service)
-                                    + BOOTP, DHCP.
-                                    + NNP (Network News Protocol)
-                                    + Quote of the day protocol
-                                    + TFTP, RTSP, RIP.
+        - IMPLICATIONS USES BY UDP-
+           + NTP (Network Time Protocol)
+
+             + DNS (Domain Name Service)
+
+                + BOOTP, DHCP.
+
+                    + NNP (Network News Protocol)
+
+                       + Quote of the day protocol
+
+                          + TFTP, RTSP, RIP.
                                    
 
     + **TCP PROTOCOLS**
