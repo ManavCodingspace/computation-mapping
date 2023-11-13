@@ -1,4 +1,4 @@
-# computation-mapping #
+9# computation-mapping #
 # **COMPUTATION** 
 + **HOST**
     - IT IS A BARE METAL. IT IS A HARDWARE THAT IS CONNECTED TO ANY NETWORK ( Server  with no. OS)
@@ -145,14 +145,29 @@
     + ***DISC IOPS***
            - IT IS INPUT/OUTPUT PERFORMACE MEASUREMENT USE TO CHARACTERIZE COMPUTER STORAGE DEVICES.
  
-    
- 
+# **SECURITY**
+1. **SSL CERTIFICATE**
+       - IT IS A CERTIFICATE WHICH ENABLE A WEBSITE TO  USE HTTPS
+2. **PKI INFRASTRUCTURE**
+        - IT IS A GOVERING BODY BEHIND ISSUING  DIGITAL CERTIFIACTES
+        - HELPS TO PROTECT CONFIDENTIAL DATA AND GIVES UNIQUE IDENTIES TO USER AND SYSTEM. THUS IT ENSURES SECRUITY IN COMMUNICATIONS.
+        - a. **CERTIFICTE AUTHORITHY**
+          b. **REGISTRATION AUTHORITHY**
+          c. **CERTIFICATION DATABASE**
+          d. **CENTRAL DIRECTORY**
+          e. **CERTIFICATE MANAGEMENT SYSTEM**
+          F. **CERTIFICATE POLICY**
        
-              
-                  
+3. **ZERO TRUST SECURITY**
+     - security model that requires strict identity verification for every person and device trying to access resources on a private network, regardless of 
+       whether they are sitting within or outside of the network perimeter              
+   A. TECHNOLOGY USE IN IT IS ZTNA              
 
+        ![download](https://github.com/ManavCodingspace/computation-mapping/assets/145857624/2a7459d4-0eaf-4459-943e-5aba9e2de2ab)
 
-
+4. **PASSWORD/SECRET ROTATION**
+5. **SITE-TO-SITE VPN**
+6. **CLIENT-TO-SITE VPN**
      
               
                
