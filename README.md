@@ -1,4 +1,4 @@
-9# computation-mapping #
+# computation-mapping #
 # **COMPUTATION** 
 + **HOST**
     - IT IS A BARE METAL. IT IS A HARDWARE THAT IS CONNECTED TO ANY NETWORK ( Server  with no. OS)
@@ -83,6 +83,9 @@
                                    
 
     + **TCP PROTOCOLS**
+        - IT IS ONE OF THE MAIN PROTOCOLS OF THE INTERNET PROTOCOL SUITS
+        - IT LIES BETWEEN THE APPLICATION AND NETWORK LAYER
+        - 
     + **PROXY**
              - IT IS A GATEWAY BETWEEN USERS AND THE INTERNET IT IMPROVES SECURITY, PRIVACY AND PERFOMANCE.
 
