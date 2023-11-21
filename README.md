@@ -190,7 +190,14 @@
 4. **PASSWORD/SECRET ROTATION**
 5. **SITE-TO-SITE VPN**
 6. **CLIENT-TO-SITE VPN**
-     
+7. **ENCRYPTION**
+        - It is a practice of encoding an original messsage into an uninelligable form
+8. **Encryption at rest**
+      -  the encryption applied to the stored data. Encryption may be implemented at the source, where data is generated and stored at the origin.
+9. **End to End Encryption**
+          -he combination of the encryption at rest and encryption in transit. When the data is generated at the source, it is already stored in an encrypted form.
+10. **End to End transit**
+       - encrypting data that is transferred between two nodes of the network. The data may be stored in an unencrypted form at the source and destination storage systems.       
 # **LOAD BALANCER**
    - IT IS A METHOD OF DISTRIBUTING NETWORK TRAFFIC EQUALLY ACROSS POOL OF RESOURCES THTA SUPPORTS AN APPLICATION    
     ![download](https://github.com/ManavCodingspace/computation-mapping/assets/145857624/559adfab-7b41-48dc-9c3d-8d7d81a55615)
@@ -209,7 +216,18 @@
      - IT USE PROTOCOLS LIKE HTTP AND SMTP TO MAKE DESICION BASED ON ACTUAL CONTENT OF MESSAGE
      - IT TERMINATES THE NETWORK TRAFFIC, PERFORM DECRYPTION AS NEEDED, INSPECT MESSAGES, MAKES CONTENT-BASED ROUTINE DESCIONS, INTITATES A NEW TCP CONNECTION TO THE APPROPRIATE UPSTREAM SERVER, AND WRITE THE REQUEST TO THE SERVER.
                
-
+# **AWS**
+# **AWS KEYWORDS**
+1.**Anamoly Detection**
+    - Anomaly detection identifies suspicious activity that falls outside of your established normal patterns of behavior. A solution protects your system in real-time from instances that could result in significant financial losses, data breaches, and other harmful events.
+2. **Amazon Cloudwatch**
+       - it is a service that monitors application, responds to performance changes, optimizes resource  use, and provides insights into operational health.
+ 3. **S3**
+      - it is ana object storage service offering industry-leading scalability, data availability, security, and performance.
+      - Resources Based 
+         +  Bucket Policies
+         + Bucket ACLs
+         + OBJECT ACLs
    
  
 
