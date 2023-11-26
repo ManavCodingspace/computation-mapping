@@ -224,8 +224,7 @@
        - it is a service that monitors application, responds to performance changes, optimizes resource  use, and provides insights into operational health.
  3. **S3**
       - it is ana object storage service offering industry-leading scalability, data availability, security, and performance.
-      - Resources Based 
-         +  Bucket Policies
+4.
          + Bucket ACLs
          + OBJECT ACLs
    
