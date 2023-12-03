@@ -220,14 +220,73 @@
 # **AWS KEYWORDS**
 1.**Anamoly Detection**
     - Anomaly detection identifies suspicious activity that falls outside of your established normal patterns of behavior. A solution protects your system in real-time from instances that could result in significant financial losses, data breaches, and other harmful events.
+
 2. **Amazon Cloudwatch**
        - it is a service that monitors application, responds to performance changes, optimizes resource  use, and provides insights into operational health.
+
  3. **S3**
       - it is ana object storage service offering industry-leading scalability, data availability, security, and performance.
-4.
+ 
+ # **Computer Architectures**:
+
+1.CISC (Complex Instruction Set Computer): A computer architecture with a diverse and extensive set of instructions, which can make it more versatile but sometimes less efficient.
+
+2.RISC (Reduced Instruction Set Computer): A computer architecture that uses a simplified and optimized set of instructions to improve performance.
+
+3.RISC-V (Open Source RISC Variant): An open-source RISC architecture, allowing for customization and flexibility.
+
+4.Embedded Systems: Computer systems integrated into devices or machines for dedicated functions, such as IoT devices and industrial controllers.
+
+5.Firmware: Firmware is like the DNA of a device. It's software permanently programmed into hardware, like the instructions for your TV remote.
          + Bucket ACLs
          + OBJECT ACLs
+6.Von Neumann vs. Harvard Architecture: Two distinct computer architectural models, with Von Neumann using a unified memory space for data and instructions and Harvard using separate memory spaces for instructions and data.
+
+7.FPGA (Field-Programmable Gate Array): Hardware that can be configured and reconfigured for specific tasks, often used in custom computing solutions.
+
+8.ASICs (Application-Specific Integrated Circuits): Custom-designed integrated circuits optimized for specific functions or applications.         
    
- 
+# **Commonly Used Linux Commands**:
+A set of essential commands for file and directory operations, file permissions, system information, text processing, package management, and process management in a Linux environment.
+File and Directory Operations:
+
+    ls: List directory contents
+    cd: Change directory
+    pwd: Print working directory
+    mkdir: Make a new directory
+    rm: Remove files or directories
+    mv: Move or rename files or directories
+    cp: Copy files or directories
+
+1.***File Permissions***:
+
+    chmod: Change file permissions
+    chown: Change file or directory ownership
+
+2.***System Information***:
+
+    top: Display system processes
+    df: Display disk space usage
+    du: Estimate file and directory space usage
+     free: Display amount of free and used memory in the system
+
+3.***Text Processing***:
+
+    cat: Concatenate and display file content
+    grep: Search text using patterns
+    sed: Stream editor for text manipulation
+    awk: Text processing tool for data extraction
+
+4.***Package Management (Debian/Ubuntu)***:
+
+    apt-get: APT package handling utility (Debian/Ubuntu)
+      Package Management (Red Hat/CentOS):
+
+     yum: Package manager (Red Hat/CentOS)
+
+5.***Process Management***:
+
+    ps: Display information about running processes
+    kill: Terminate processes by process ID 
 
    
